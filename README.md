@@ -6,12 +6,15 @@ not present on the original website.
 # Features
 
 Navigation Bar: Includes a search bar, category links, and account options similar to the Amazon header.
+
 Product Listings: Displays products in a grid format with images, titles.
+
 Transitions and Animations: Added unique CSS transitions for a smoother and more interactive user experience.
 
 # Technologies Used
 
 HTML5: For structuring the content on the web pages.
+
 CSS3: For styling the web pages and implementing the custom transitions.
 
 # Installation
@@ -25,9 +28,9 @@ cd Amazon-Clone
 
 # Future Enhancements
 
-Adding JavaScript to make the site interactive (e.g., search functionality, product filters).
-Integrating a backend to handle user authentication and product management.
-Adding a shopping cart feature and checkout process.
+1. Adding JavaScript to make the site interactive (e.g., search functionality, product filters).
+2. Integrating a backend to handle user authentication and product management.
+3. Adding a shopping cart feature and checkout process.
 
 # Contributing
 
