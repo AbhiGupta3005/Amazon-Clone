@@ -18,9 +18,9 @@ CSS3: For styling the web pages and implementing the custom transitions.
 To view this project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/AbhiGupta3005/Amazon-Clone.git
 2. Navigate to the project directory:
-cd amazon-clone
+cd Amazon-Clone
 3. Open the index.html file in your web browser to view the website.
 
 # Future Enhancements
