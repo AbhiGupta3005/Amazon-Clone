@@ -1,4 +1,4 @@
-# Amazon Clone
+# About
 This is a simple clone of the Amazon website created using HTML and CSS. The project showcases the fundamental structure and styling of an e-commerce website,
 mimicking the layout and design of the original Amazon site. Additionally, some unique transitions have been added to enhance the user experience, which are 
 not present on the original website.
